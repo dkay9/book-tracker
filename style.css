@@ -1,4 +1,14 @@
 *{
     box-sizing: border-box;
 }
-  
+h1{
+    text-align: center;
+}
+input,button{
+    display: block;
+    margin: 0 auto;
+    margin-top: 10px;
+}
+h2{
+    text-align: center;
+}
